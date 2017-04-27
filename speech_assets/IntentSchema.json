@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "GetContact",
+      "slots": [
+        {
+          "name": "fname",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "lname",
+          "type": "STATES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

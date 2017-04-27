@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "email": "cassiozen@gmail.com",
+    "role": "product manager",
+    "description": "John is the product manager of Star Company"
+  },
+  {
+    "name": "Dan Rose",
+    "email": "gaearon@somewhere.com",
+    "role": "manager",
+    "description": "Dan is the manager of Star Company"
+  },
+  {
+    "name": "Pete Hunt",
+    "email": "floydophone@somewhere.com",
+    "role": "computer programmer",
+    "description": "Pete is a computer programmer at Star Company"
+  },
+  {
+    "name": "Paul Gilbert",
+    "email": "zpao@somewhere.com",
+    "role": "designer",
+    "description": "Paul is a designer at Star Company"
+  },
+  {
+    "name": "Sheila Young",
+    "email": "rpflorence@somewhere.com",
+    "role": "owner",
+    "description": "Sheila is owner the Star Company"
+  },
+  {
+    "name": "Ron Smith",
+    "email": "sebmarkbage@here.com",
+    "role": "lead architect",
+    "description": "Ron is the lead architect at Star Company"
+  }
+]

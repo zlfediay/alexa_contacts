@@ -1,1 +1,4 @@
 GetContact {fname} {lname}
+GetContact tell me about {fname} {lname}
+GetContact tell me more about {fname} {lname}
+GetContact look up {fname} {lname}

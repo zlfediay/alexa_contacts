@@ -5,11 +5,11 @@
       "slots": [
         {
           "name": "fname",
-          "type": "AMAZON.US_CITY"
+          "type": "AMAZON.US_FIRST_NAME"
         },
         {
           "name": "lname",
-          "type": "STATES"
+          "type": "LAST_NAMES"
         }
       ]
     },

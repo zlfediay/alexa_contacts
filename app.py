@@ -1,4 +1,5 @@
 import logging
+import json
 from flask import Flask
 from flask_ask import Ask, question, statement
 
@@ -19,7 +20,17 @@ def launch():
 
 @ask.intent('GetContact')
 def get_contact(fname, lname):
-    speech_text = "{} {} is the owner of this company.".format(fname, lname)
+    # load json file
+    with open('sample_contacts.json') as data_file:
+        contacts = json.load(data_file)
+
+    # loop through contacts and look for name that user said
+    for contact in contacts:
+        if contact['name'] == '{} {}'.format(fname, lname):
+            description = contact['description']
+
+    # return description as speech text
+    speech_text = description
     return statement(speech_text)
 
 

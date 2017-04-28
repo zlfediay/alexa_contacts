@@ -24,12 +24,13 @@ def get_contact(fname, lname):
     with open('sample_contacts.json') as data_file:
         contacts = json.load(data_file)
 
+    speech_text = contacts[0]['description']
     # loop through contacts and find name
-    for contact in contacts:
-        if contact['name'] == '{} {}'.format(fname.title(), lname.title()):
-            speech_text = contact['description']
-        else:
-            speech_text = "Sorry I cannot find that contact."
+    # for contact in contacts:
+    #     if contact['name'] == '{} {}'.format(fname.title(), lname.title()):
+    #         speech_text = contact['description']
+    #     else:
+    #         speech_text = "Sorry I cannot find that contact."
 
     return statement(speech_text)
 

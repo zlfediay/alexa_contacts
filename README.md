@@ -16,7 +16,7 @@ Instructions for testing the Alexa skill:
 
 7. Copy the contents of the IntentSchema.json file in the folder speech_assets into the Intent Schema window
 
-8. Under custom slop types, click Add Slot Type. Name it LAST_NAMES. Paste in the contents of the LastNames.txt file in the speech_assets folder and click Save.
+8. Under custom slot types, click Add Slot Type. Name it LAST_NAMES. Paste in the contents of the LastNames.txt file in the speech_assets folder and click Save.
 
 9. Copy the contents of the SampleUtterances.txt file from the speech_assets folder into the Sample Utterances window and save it.
 

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Richard Webber",
+    "name": "John Wilson",
     "email": "cassiozen@gmail.com",
     "role": "product manager",
     "description": "Richard is the product manager of Star Company"
@@ -24,10 +24,10 @@
     "description": "Paul is a designer at Star Company"
   },
   {
-    "name": "Ben Williams",
+    "name": "Roger Davis",
     "email": "rpflorence@somewhere.com",
     "role": "owner",
-    "description": "Ben is owner the Star Company"
+    "description": "Roger is owner the Star Company"
   },
   {
     "name": "Ron Smith",

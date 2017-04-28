@@ -3,7 +3,7 @@
     "name": "John Wilson",
     "email": "cassiozen@gmail.com",
     "role": "product manager",
-    "description": "Richard is the product manager of Star Company"
+    "description": "John is a product manager at Star Company"
   },
   {
     "name": "Dan Rose",
@@ -27,7 +27,7 @@
     "name": "Roger Davis",
     "email": "rpflorence@somewhere.com",
     "role": "owner",
-    "description": "Roger is owner the Star Company"
+    "description": "Roger is the owner of Star Company"
   },
   {
     "name": "Ron Smith",

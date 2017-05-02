@@ -6,6 +6,12 @@
     "description": "John is a product manager at Star Company"
   },
   {
+    "name": "Ilias Beshimov",
+    "email": "ilias@good.co",
+    "role": "VP of Growth",
+    "description": "Ilias is an innovative, out-of-the-box thinker who values intellectual challenge and competition. He approaches challenges strategically, assessing the situation from all angles."
+  },
+  {
     "name": "Dan Rose",
     "email": "gaearon@somewhere.com",
     "role": "manager",
